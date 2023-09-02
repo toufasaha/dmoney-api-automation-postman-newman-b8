@@ -14,7 +14,7 @@
 - clone this project
 - Give following command:
 - ``` npm i ```
-- ``` npm test ```
+- ``` npm .\report.js ```
 
 ## d-money API documentation
 - https://documenter.getpostman.com/view/16824487/2s9Y5ctLcv
